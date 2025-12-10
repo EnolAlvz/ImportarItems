@@ -1,0 +1,9 @@
+body { font-family: Arial, Helvetica, sans-serif; margin: 0; padding: 0; }
+#app { max-width: 900px; margin: 20px auto; padding: 10px; }
+header { border-bottom: 1px solid #ddd; padding-bottom: 10px; margin-bottom: 12px }
+nav a { margin: 0 8px; color: #0066cc; text-decoration: none }
+form { margin-bottom: 16px }
+label { display: block; margin: 6px 0 }
+input { padding: 6px; width: 100%; max-width: 480px }
+.actions { margin-top: 8px }
+button { margin-left: 6px }
